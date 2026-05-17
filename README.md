@@ -116,7 +116,7 @@ This satisfies the strict traceability requirements of clinical AI deployments.
 
 # Dataset
 
-This project utilizes the Alzheimer's Dataset (4 Class of Images) from :contentReference[oaicite:1]{index=1} Kaggle.
+This project utilizes the Alzheimer's Dataset (4 Class of Images)
 
 The dataset consists of MRI scans categorized into four distinct stages of Alzheimer's progression:
 
