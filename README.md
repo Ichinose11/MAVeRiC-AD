@@ -123,7 +123,9 @@ The dataset consists of MRI scans categorized into four distinct stages of Alzhe
 1. Non-Demented  
 2. Very Mild Demented  
 3. Mild Demented  
-4. Moderate Demented  
+4. Moderate Demented
+
+Dataset link : https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset
 
 > **Note:**  
 > The pipeline is specifically designed to ingest the original, unaugmented dataset. All augmentations are strictly controlled within the PyTorch `DataLoader` to prevent train-validation leakage.
